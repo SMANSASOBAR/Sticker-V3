@@ -1446,6 +1446,16 @@
       "image_file": "niel.webp",
       "emojis": ["📱"],
       "accessibility_text": "Dniel Bajoget"
+          },
+          {
+      "image_file": "niel_1.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Dniel Bajoget jir"
+          },
+          {
+      "image_file": "niel_2.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Dniel Bajoget riang"
           }
       ]
     }
